@@ -1,0 +1,33 @@
+-- SQLite
+-- CREATE TABLE admin (
+-- id INTEGER PRIMARY KEY AUTOINCREMENT,
+-- name VARCHAR(150),
+-- password VARCHAR(50)
+-- )
+
+-- INSERT INTO admin (
+-- login,
+-- password) VALUES (
+-- "admin",
+-- "projet"
+-- )
+
+-- CREATE TABLE articles(
+-- id INTEGER PRIMARY KEY AUTOINCREMENT,
+-- title VARCHAR(150) NOT NULL,
+-- slug VARCHAR(150) NOT NULL UNIQUE,
+-- picture VARCHAR(350),
+-- content TEXT,
+-- created_at DATETIME,
+-- modified_at DATETIME DEFAULT (datetime('now') ) NOT NULL,
+-- deleted_at DATETIME
+-- );
+
+-- INSERT INTO articles (
+-- title,
+-- slug,
+-- content) VALUES (
+-- "Apprendre le HTML/CSS",
+-- "html-css",
+-- "Ceci est un exemple"
+-- );
