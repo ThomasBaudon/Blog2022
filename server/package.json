@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibelieveolive/blog2022.git"
+    "url": "git+https://github.com/ThomasBaudon/Blog2022.git"
   },
   "author": "los nullos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibelieveolive/blog2022/issues"
+    "url": "https://github.com/ThomasBaudon/Blog2022/issues"
   },
-  "homepage": "https://github.com/ibelieveolive/blog2022#readme",
+  "homepage": "https://github.com/ThomasBaudon/Blog2022#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
